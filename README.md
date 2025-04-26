@@ -1,6 +1,6 @@
 # task-management
 
-How to run backend 
+## How to run backend 
 
 use php version equal or above 8
 
@@ -15,7 +15,7 @@ php -S localhost:8001 index.php
 
 
 
-How to run frontend
+## How to run frontend
 
 use node version 18 or above
 
